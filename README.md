@@ -4,7 +4,7 @@
 
 - 🐧 Main project: [owl-os](https://github.com/owlsecx/owl-os)
 - 🌐 Website: [owlsec.org](https://owlsec.org)
-- ✉️ support@owlsec.org
+- ✉️ info@owlsec.org
 
 ## Headline tools
 
