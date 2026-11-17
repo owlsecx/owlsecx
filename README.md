@@ -25,4 +25,4 @@ OwlSec is operated by **Owlsec LLC**, a limited liability company registered in 
 
 > ⚠️ **AUTHORISED USE ONLY** — Use only on systems you own or have explicit written permission to test.
 
-MIT License — © Khaled S. Haddad
+MIT License — © Khaled.s.Haddad
