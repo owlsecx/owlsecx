@@ -1,6 +1,6 @@
 # 🦉 Owlsecx
 
-**Owl OS** is a Debian-based cybersecurity operating system with **300+** open-source offensive, defensive, and intelligence tools.
+**Owl OS** is a Debian-based cybersecurity operating system with **275+** open-source offensive, defensive, and intelligence tools.
 
 - 🐧 Main project: [owl-os](https://github.com/owlsecx/owl-os)
 - 🌐 Website: [owlsec.org](https://owlsec.org)
