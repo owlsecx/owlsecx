@@ -4,6 +4,7 @@
 
 - 🐧 Main project: [owl-os](https://github.com/owlsecx/owl-os)
 - 🌐 Website: [owlsec.org](https://owlsec.org)
+- X: [@owlsecx](https://x.com/owlsecx)
 - ✉️ info@owlsec.org
 
 OwlSec is operated by **Owlsec LLC**, a limited liability company registered in New Mexico, USA (formed November 6, 2026).
