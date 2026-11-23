@@ -1,6 +1,6 @@
 # 🦉 Owlsecx
 
-**Owl OS** is a Debian-based cybersecurity operating system with **275+** open-source offensive, defensive, and intelligence tools.
+**Owl OS** is a Debian-based cybersecurity operating system with **275+** offensive, defensive, and intelligence tools.
 
 - 🐧 Main project: [owl-os](https://github.com/owlsecx/owl-os)
 - 🌐 Website: [owlsec.org](https://owlsec.org)
@@ -25,4 +25,4 @@ OwlSec is operated by **Owlsec LLC**, a limited liability company registered in 
 
 > ⚠️ **AUTHORISED USE ONLY** — Use only on systems you own or have explicit written permission to test.
 
-MIT License — © Khaled.s.Haddad
+39 published OwlSec tools are open source under the MIT License; the rest are proprietary. Each tool's license is stated in its own repository.
